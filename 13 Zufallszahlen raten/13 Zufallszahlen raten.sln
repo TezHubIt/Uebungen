@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Zufallszahlen raten", "13 Zufallszahlen raten\13 Zufallszahlen raten.csproj", "{99EBB7C7-A27F-46C6-BF40-610E9F0C84DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EBB7C7-A27F-46C6-BF40-610E9F0C84DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EBB7C7-A27F-46C6-BF40-610E9F0C84DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EBB7C7-A27F-46C6-BF40-610E9F0C84DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EBB7C7-A27F-46C6-BF40-610E9F0C84DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A6BEDF-4A9E-402A-9122-2EF0F46E938E}
+	EndGlobalSection
+EndGlobal
