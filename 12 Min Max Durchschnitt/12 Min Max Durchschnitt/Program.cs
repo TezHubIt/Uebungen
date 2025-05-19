@@ -1,4 +1,4 @@
-﻿using System.Linq;                                                  // Für die Verwendung von Min, Max und Durchschnitt
+﻿using System.Linq;                                                  // Für die Verwendung von Min, Max und Average
 
 Console.WriteLine("Wieviele Zahlen willst du eingeben: ");
 int anzahl = Convert.ToInt32(Console.ReadLine());                   // Anzahl der Zahlen festlegen
