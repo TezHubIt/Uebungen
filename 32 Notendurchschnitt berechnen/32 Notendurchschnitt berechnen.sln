@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32 Notendurchschnitt berechnen", "32 Notendurchschnitt berechnen\32 Notendurchschnitt berechnen.csproj", "{D44916DA-BAB1-4316-B304-95B1483EBE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44916DA-BAB1-4316-B304-95B1483EBE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44916DA-BAB1-4316-B304-95B1483EBE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44916DA-BAB1-4316-B304-95B1483EBE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44916DA-BAB1-4316-B304-95B1483EBE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19F07D9-EA7E-4E59-90FE-76BC30B8B174}
+	EndGlobalSection
+EndGlobal
