@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 ASCII Werte ausgeben", "25 ASCII Werte ausgeben\25 ASCII Werte ausgeben.csproj", "{D62447C5-E8E6-430C-8A67-492F22E55BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62447C5-E8E6-430C-8A67-492F22E55BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62447C5-E8E6-430C-8A67-492F22E55BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62447C5-E8E6-430C-8A67-492F22E55BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62447C5-E8E6-430C-8A67-492F22E55BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DA0537-BF48-42D1-A855-F901E75945B3}
+	EndGlobalSection
+EndGlobal
