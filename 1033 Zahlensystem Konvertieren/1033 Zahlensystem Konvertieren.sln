@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1033 Zahlensystem Konvertieren", "1033 Zahlensystem Konvertieren\1033 Zahlensystem Konvertieren.csproj", "{6BE59044-AB87-4CE0-A546-97CA756801EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE59044-AB87-4CE0-A546-97CA756801EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE59044-AB87-4CE0-A546-97CA756801EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE59044-AB87-4CE0-A546-97CA756801EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE59044-AB87-4CE0-A546-97CA756801EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEF17A6-BBC7-4D88-A9F5-BB791919C543}
+	EndGlobalSection
+EndGlobal

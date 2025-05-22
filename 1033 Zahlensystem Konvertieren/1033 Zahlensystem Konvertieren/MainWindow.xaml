@@ -1,0 +1,12 @@
+﻿<Window x:Class="DezimalUmwandler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dezimal-Umwandler" Height="200" Width="400">
+        
+        <StackPanel Margin="20">
+        <TextBlock Text="Dezimalzahl eingeben und Enter drücken:" Margin="0,0,0,10" />
+        <TextBox Name="textBoxDezimal" KeyDown="textBoxDezimal_KeyDown" />
+        <TextBlock Name="textBlockBinaer" Margin="0,10,0,0" />
+        <TextBlock Name="textBlockHex" />
+    </StackPanel>
+</Window>
