@@ -1,0 +1,28 @@
+﻿<Window x:Class="_1015_Zeichenzähler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1015_Zeichenzähler"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-16">
+        <TextBox x:Name="txtEingabe" HorizontalAlignment="Center" Margin="0,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="632" FontSize="20" Height="39">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <Label x:Name="lblAnzahl" Content="" HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top" Height="88" Width="632" FontSize="24"/>
+        <Button x:Name="btnZaehlen" Content="Zählen" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Click="btnZaehlen_Click" Height="57" Width="108" FontSize="20">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="btnEnde" Content="Beenden" HorizontalAlignment="Left" Margin="589,301,0,0" VerticalAlignment="Top" Click="btnEnde_Click" Height="51" Width="176" FontSize="16">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Hier den Text eingeben" HorizontalAlignment="Left" Margin="84,11,0,0" VerticalAlignment="Top" FontSize="18"/>
+    </Grid>
+</Window>
