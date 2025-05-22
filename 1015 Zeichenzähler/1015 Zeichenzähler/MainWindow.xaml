@@ -13,7 +13,7 @@
             </TextBox.Effect>
         </TextBox>
         <Label x:Name="lblAnzahl" Content="" HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top" Height="88" Width="632" FontSize="24"/>
-        <Button x:Name="btnZaehlen" Content="Zählen" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Click="btnZaehlen_Click" Height="57" Width="108" FontSize="20">
+        <Button x:Name="btnZaehlen" Content="Zählen" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Click="btnZaehlen_Click" Height="57" Width="108" FontSize="20" Background="Black" Foreground="CadetBlue">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
