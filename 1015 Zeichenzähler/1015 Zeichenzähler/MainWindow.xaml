@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_1015_Zeichenzähler"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="396" Width="799" Background="DarkGray">
     <Grid Margin="0,0,0,-16">
         <TextBox x:Name="txtEingabe" HorizontalAlignment="Center" Margin="0,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="632" FontSize="20" Height="39">
             <TextBox.Effect>
