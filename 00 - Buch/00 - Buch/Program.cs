@@ -1,6 +1,13 @@
-﻿int x, y;
-Console.Write("Geben Sie eine Zahl ein: ");
-x = Convert.ToInt32(Console.ReadLine());
-y = (x == 0 ? 1 : x);
+﻿using _00___Buch;
 
-Console.WriteLine($"Die Zahl ist {y}.");
+Person peter = new Person();
+peter.Name = "Peter";
+peter.Age = 34;
+peter.Laufen();
+
+Person bettina = new Person();
+bettina.Name = "Bettina";
+bettina.Age = 28;
+bettina.Laufen();
+
+
